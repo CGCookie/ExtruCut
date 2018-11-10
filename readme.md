@@ -7,7 +7,7 @@ This is an example add-on that demonstrates how to use CG Cookie CookieCutter to
 To clone this add-on example:
 
 ```
-git clone --recursive git@github.com:vxlcoder/cookiecutter_bextruder.git
+git clone --recursive git@github.com:cgcookie/extrucut.git
 ```
 
 
